@@ -1,0 +1,22 @@
+body {
+    background-color: lightcoral
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    color: greenyellow;
+    text-align: center;
+    text-decoration: underline;
+}
+
+img {
+    display: flex;
+    margin: auto;
+    width: 25%;
+    border: 1px solid blue;
+    padding: 1rem;
+}
